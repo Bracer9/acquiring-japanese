@@ -10,11 +10,11 @@
 .profile .profile-content .profile-title {
   margin-top: 0;
   margin-bottom: $margin-m-0;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 .profile .profile-content .profile-body {
   margin-top: 0;
-  margin-bottom: $margin-l-1;
+  margin-bottom: 1rem;
 }
 .profile .profile-content .profile-link {
   margin-top: 0;

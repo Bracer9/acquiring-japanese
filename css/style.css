@@ -568,11 +568,11 @@ input[type="search"]::-webkit-search-results-decoration {
 .profile .profile-content .profile-title {
   margin-top: 0;
   margin-bottom: 0.5rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 .profile .profile-content .profile-body {
   margin-top: 0;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 .profile .profile-content .profile-title {
   font-size: 1.75rem;
